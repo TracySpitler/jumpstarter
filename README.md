@@ -12,7 +12,7 @@ A jumpstart MERN project to make it a little easier.
 Clone the repo:
 
 ```
-$ git clone https://github.com/TracySpitler/jumpstarter.git
+$ git clone https://github.com/TracySpitler/mern.git
 ```
 
 ### Prerequisites
