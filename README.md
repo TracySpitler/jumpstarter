@@ -1,10 +1,10 @@
-# [Blockbuster]
+# [MERN Jumpstarter]
 
-An easier way to sift through all of those movies.
+A jumpstart MERN project to make it a little easier.
 
 ## Quick Links
 
-* [Staging Server Link](https://codeteers-shopalot-staging.herokuapp.com/)
+* [Staging Server Link]()
 * [Full Project Spec](https://github.com/TracySpitler/Shopalot/blob/dev/README.md)
 
 ## Installing
@@ -12,7 +12,7 @@ An easier way to sift through all of those movies.
 Clone the repo:
 
 ```
-$ git clone https://github.com/TracySpitler/Blockbuster.git
+$ git clone https://github.com/TracySpitler/jumpstarter.git
 ```
 
 ### Prerequisites
@@ -70,7 +70,7 @@ _.env_
 
 ```
 MONGO_HOST=localhost
-MONGO_DATABASE=blockbuster
+MONGO_DATABASE=mern
 ```
 
 Get the code up and running
