@@ -1,4 +1,4 @@
-// Movie Schema
+// Item Schema
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
