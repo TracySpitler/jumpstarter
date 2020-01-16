@@ -5,14 +5,14 @@ A jumpstart MERN project to make it a little easier.
 ## Quick Links
 
 * [Staging Server Link]()
-* [Full Project Spec](https://github.com/TracySpitler/Shopalot/blob/dev/README.md)
+* [Full Project Spec](https://github.com/TracySpitler/jumpstarter#README.md)
 
 ## Installing
 
 Clone the repo:
 
 ```
-$ git clone https://github.com/TracySpitler/mern.git
+$ git clone https://github.com/TracySpitler/jumpstarter.git
 ```
 
 ### Prerequisites

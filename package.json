@@ -1,5 +1,5 @@
 {
-  "name": "MERN",
+  "name": "MERN Jumpstart",
   "version": "1.0.0",
   "description": "A jumpstart on the MERN stack.",
   "main": "server.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TracySpitler/mern.git"
+    "url": "git+https://github.com/TracySpitler/jumpstarter.git"
   },
   "author": "TSpitler",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TracySpitler/mern/issues"
+    "url": "https://github.com/TracySpitler/jumpstarter/issues"
   },
-  "homepage": "https://github.com/TracySpitler/mern#readme",
+  "homepage": "https://github.com/TracySpitler/jumpstarter#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "concurrently": "^4.1.2",
