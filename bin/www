@@ -8,13 +8,13 @@ if (NODE_ENV === 'development') {
 
 // include
 const app = require('../server');
-const http = require('http');
+const https = require('https');
 
 // setup the port
 const port = process.env.PORT || 5000;
 app.set('port', port)
 
-// create HTTP server - once up, print to console
-const server = http.createServer(app);
+// create HTTPS server - once up, print to console
+const server = https.createServer(app);
 server.listen(port)
 server.on('listening', () => console.log('Server running on: '+port))
