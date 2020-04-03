@@ -1,5 +1,5 @@
 {
-  "name": "MERN Jumpstart",
+  "name": "mern-jumpstart",
   "version": "1.0.0",
   "description": "A jumpstart on the MERN stack.",
   "main": "server.js",
